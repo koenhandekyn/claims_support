@@ -1,38 +1,33 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Maak een foutrapport om ons te helpen
 title: ''
 labels: ''
-assignees: ''
+assignees: koenhandekyn
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Beschrijving van de bug**  
+Wat is het probleem? Geef een korte en duidelijke uitleg.  
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Stappen om te reproduceren**  
+1. Ga naar '...’  
+2. Klik op '...’  
+3. Zie de fout
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+- Geef de URL: 
+- Geef het dossiernummer waar relevant: 
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Verwacht gedrag**  
+Wat had er moeten gebeuren?  
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Schermafbeelding/Video**  
+Voeg een screenshot en of video toe als dat helpt om het probleem te verduidelijken.  
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Apparaat & browser**  
+- **OS:** [bv. Windows, macOS, iPad]  
+- **Browser:** [bv. Chrome, Safari]  
+- **Versie:** [bv. 22]  
 
-**Additional context**
-Add any other context about the problem here.
+**Extra info**  
+Andere relevante details of context?
